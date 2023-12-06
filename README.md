@@ -26,7 +26,7 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis]()
 * _SOFTWARE ENGINEERING:_ [Complex-Number-Calculator](https://github.com/CamillaSpi/ProjectGruppo12IZ)
 * _DATABASE DESIGN:_ [Volunteer-Mission-Management-System]()
-* _EMBEDDED SYSTEMS:_ [AIR-Mouse]()
+* _EMBEDDED SYSTEMS:_ [AIR-Mouse](https://github.com/MattiaMarseglia/AIR-Mouse-Project)
 
 ### 📌 Extracurricular Projects
 * Update, state of art simulator "Vista" during a Research Scholarship at Università degli studi di Salerno, [Vista](https://github.com/MattiaMarseglia/Vista)
