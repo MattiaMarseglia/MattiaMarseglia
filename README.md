@@ -22,7 +22,7 @@ As someone who pays close attention to detail and is fully invested in my work, 
 
 ### 📌 Extracurricular Projects
 * Update, state of art simulator "Vista" during a Research Scholarship at Università degli studi di Salerno, [Vista](https://github.com/MattiaMarseglia/Vista)
-* Research Thesis in Computer Vision: "Multi-task techniques for road weather classification and surface anomaly detection"
+* Research Thesis in Computer Vision: "Multi-task techniques for road weather classification and surface anomaly detection" [Thesis](https://github.com/MattiaMarseglia/Progetto_Tesi)
 
 ### 📫 Contacts
 * [Mail](mailto:mm.scarpa99@gmail.com)
