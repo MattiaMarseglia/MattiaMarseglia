@@ -24,7 +24,7 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * _ALGORITHMS AND PROTOCOLS FOR SECURITY:_ [Blockchain for Correct Voting]()
 * _RENEWABLE ENERGY:_ [Hotspot-Detection-for-Solar-Panels]()
 * _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis]()
-* _SOFTWARE ENGINEERING:_ [Culculator]()
+* _SOFTWARE ENGINEERING:_ [Complex-Number-Calculator](https://github.com/CamillaSpi/ProjectGruppo12IZ)
 * _DATABASE DESIGN:_ [Volunteer-Mission-Management-System]()
 * _EMBEDDED SYSTEMS:_ [AIR-Mouse]()
 
