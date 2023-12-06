@@ -21,7 +21,7 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * _ARTIFICIAL VISION:_ [Age-Estimation](https://github.com/MattiaMarseglia/Artificial-Vision-Project)
 * _MACHINE LEARNING:_ [Painting-Classification]()
 * _ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY:_ [Malware-Detection]()
-* _CYBERSECURITY:_ [Blockchain for Correct Voting]()
+* _ALGORITHMS AND PROTOCOLS FOR SECURITY:_ [Blockchain for Correct Voting]()
 * _RENEWABLE ENERGY:_ [Hotspot-Detection-for-Solar-Panels]()
 * _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis]()
 * _SOFTWARE ENGINEERING:_ [Culculator]()
