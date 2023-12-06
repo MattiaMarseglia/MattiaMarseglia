@@ -5,12 +5,12 @@ As someone who pays close attention to detail and is fully invested in my work, 
 
 ### 🎓 Academic backgroud
 **Master's Degree in AI Computer Engineering** – Università degli studi di Salerno (Italy)
-* GPA: ​29.12/30
+* GPA: ​29.12/30 (3.88/4)
 * 110/110 summa cum laude
 * MSc thesis "Multi-task techniques for road weather classification and surface anomaly detection", The addressed problem concerns the classification of road conditions, with three main sub-tasks: detecting irregularities, assessing friction, and identifying the material of the road surface. The proposal involved the research and subsequent reorganization of a highly significant dataset in the state of the art and the implementation of a complex architecture based on CNN, RNN, introducing an innovative algorithm called PLA.
 
 **Bachelor's Degree in Computer Science and Engineering** — Università degli Studi di Salerno (Salerno, Italy) 
-* GPA: 28.87/30
+* GPA: 28.87/30 (3.85/4)
 * 110/110 summa cum Laude
 * Graduated in the earliest possible session, with full marks
 * BSc thesis "Progettazione e realizzazione di un portale web per il conteggio automatico dei volti".
