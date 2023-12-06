@@ -16,9 +16,17 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * BSc thesis "Progettazione e realizzazione di un portale web per il conteggio automatico dei volti".
 
 ### 📚 Main Projects
-* _COGNITIVE ROBOTICS:_ [Social-Robot-Project](https://github.com/CamillaSpi/DefinitivoCog)
-* _AUTONOMOUS VEHICLE DRIVING:_ [AVD-Project](https://github.com/vturi3/AVD_Project)
+* _COGNITIVE ROBOTICS:_ [Social-Robot](https://github.com/CamillaSpi/DefinitivoCog)
+* _AUTONOMOUS VEHICLE DRIVING:_ [AVD](https://github.com/vturi3/AVD_Project)
 * _ARTIFICIAL VISION:_ [Age-Estimation](https://github.com/MattiaMarseglia/Artificial-Vision-Project)
+* _MACHINE LEARNING:_ [Painting-Classification]()
+* _ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY:_ [Malware-Detection]()
+* _CYBERSECURITY:_ [Blockchain for Correct Voting]()
+* _RENEWABLE ENERGY:_ [Hotspot-Detection-for-Solar-Panels]()
+* _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis]()
+* _SOFTWARE ENGINEERING:_ [Culculator]()
+* _DATABASE DESIGN:_ [Volunteer-Mission-Management-System]()
+* _EMBEDDED SYSTEMS:_ [AIR-Mouse]()
 
 ### 📌 Extracurricular Projects
 * Update, state of art simulator "Vista" during a Research Scholarship at Università degli studi di Salerno, [Vista](https://github.com/MattiaMarseglia/Vista)
