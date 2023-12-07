@@ -22,7 +22,7 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * _MACHINE LEARNING:_ [Painting-Classification](https://github.com/MattiaMarseglia/Painting-Classification)
 * _ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY:_ [Malware-Detection](https://github.com/MattiaMarseglia/Malware-Detection)
 * _ALGORITHMS AND PROTOCOLS FOR SECURITY:_ [Blockchain for Correct Voting](https://github.com/MattiaMarseglia/Blockchain-for-Correct-Voting)
-* _RENEWABLE ENERGY:_ [Hotspot-Detection-for-Solar-Panels]()
+* _RENEWABLE ENERGY:_ [Hotspot-and-Shadow-Detection-for-Solar-Panels]()
 * _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis](https://github.com/MattiaMarseglia/Design-and-Analysis-of-Algorithms)
 * _SOFTWARE ENGINEERING:_ [Complex-Number-Calculator](https://github.com/CamillaSpi/ProjectGruppo12IZ)
 * _DATABASE DESIGN:_ [Volunteer-Mission-Management-System]()
