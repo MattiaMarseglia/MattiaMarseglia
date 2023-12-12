@@ -33,6 +33,6 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * Research Thesis in Computer Vision: "Multi-task techniques for road weather classification and surface anomaly detection" [Thesis](https://github.com/MattiaMarseglia/Progetto_Tesi)
 
 ### 📫 Contacts
-* [Mail](mailto:mm.scarpa99@gmail.com)
+* [Mail](mailto:m.marseglia2@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/mattia-marseglia-2a287a258/)
 
