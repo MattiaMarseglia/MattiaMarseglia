@@ -28,6 +28,7 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis](https://github.com/MattiaMarseglia/Design-and-Analysis-of-Algorithms)
 * _SOFTWARE ENGINEERING:_ [Complex-Number-Calculator](https://github.com/CamillaSpi/ProjectGruppo12IZ)
 * _DATABASE DESIGN:_ [Volunteer-Mission-Management-System](https://github.com/MattiaMarseglia/Volunteer-Mission-Management-System)
+* _WEB_TECHNOLOGIES_: [A-web-portal-for-playing-image-based-quizzes](https://github.com/CamillaSpi/A-web-portal-for-playing-image-based-quizzes)
 * _EMBEDDED SYSTEMS:_ [AIR-Mouse](https://github.com/MattiaMarseglia/AIR-Mouse-Project)
 
 ### 📌 Extracurricular Projects
